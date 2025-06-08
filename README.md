@@ -4,7 +4,7 @@
 
 🔭 I’m a recent graduate actively seeking an entry-level Software Developer position
 
-📫 Let’s connect on [LinkedIn](www.linkedin.com/in/yujia-cheng-79a38913b)
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/yujia-cheng-79a38913b/)
 
 <!--
 **YuriaC/YuriaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
